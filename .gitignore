@@ -35,5 +35,3 @@ proguard/
 # Android Studio files
 */build/
 
-# Mac OS .DS_Store file
-.DS_Store
